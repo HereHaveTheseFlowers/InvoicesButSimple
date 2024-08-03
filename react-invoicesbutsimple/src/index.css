@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #2caf62 !important; 
+  width: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.app__container {
+  background-color: #f6f6f6;
+  margin-top: 100px;
+  min-height: calc(var(--doc-height) - 200px);
+}
+
+.app__circles {
+  position: relative;
+  transform: translateY(-25px);
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 15px;
+}
+
+.app__circles>span {
+  background-color: #2caf62;
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+}
+
+@media (max-width: 1024px ) {
+  .tablet__hide {
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+.app__logout {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  z-index: 5000;
+}
+.app {
+  height: 100%;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.app__invoicestable {
+  margin-top: 6px;
+  font-size: 14px;
+}
+
+.app__buttondownload {
+  aspect-ratio: 1 / 1;
+  border-radius: 10%;
+  background: #2caf62;
+  height: 25px;
+  border: 0;
+}
+
+.app__buttondownload:hover {
+  background: #249955;
+}
+
+.app__buttondownload>img {
+  height: 100%;
+  transform: scale(1.5);
+  aspect-ratio: 1 / 1;
+  width: 100%;
+}
+
+.app__buttondelete {
+  transform: translateY(1px);
+  margin-left: 10px;
+  aspect-ratio: 1 / 1;
+  border-radius: 10%;
+  background: #dc3545;
+  height: 25px;
+  border: 0;
+}
+
+.app__buttondelete:hover {
+  background: #aa1c2a;
+}
+
+.invoiceForm__input::placeholder {
+  opacity: 0.4 !important;
+}
+
+.form-label_required {
+  text-decoration: underline;
+}
+
+
+:root {
+  --scale: 0;
+  --arrow-size: 10px;
+  --tooltip-color: #dc3545;
+}
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.custooltip {
+  position: relative;
+}
+.custooltip::before {
+  position: absolute;
+  top: -.25rem;
+  left: 50%;
+  z-index: 7000;
+  -webkit-transform: translateX(-50%) translateY(var(--translate-y, 0)) scale(var(--scale));
+          transform: translateX(-50%) translateY(var(--translate-y, 0)) scale(var(--scale));
+  -webkit-transform-origin: bottom center;
+          transform-origin: bottom center;
+  -webkit-transition: 100ms -webkit-transform ease-in-out;
+  transition: 100ms -webkit-transform ease-in-out;
+  transition: 100ms transform ease-in-out;
+  transition: 100ms transform ease-in-out, 100ms -webkit-transform ease-in-out;
+}
+.custooltip::before {
+  --translate-y: calc(-100% );
+  content: attr(data-tooltip);
+  color: white;
+  padding: .5rem;
+  border-radius: .3rem;
+  text-align: center;
+  font-size: .90rem;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  max-width: 100%;
+  background: var(--tooltip-color);
+  line-height: 1.2;
+}
+.custooltip:hover::before {
+  --scale: 1;
+}
+
+.error {
+  border: none;
+  outline: 3px solid #dc3545;
+  border-radius: 5px;
+}
+
+button.error {
+  background-color: #dc3545 !important;
+}
+
+.app__login {
+  position: fixed;
+  right: 210px;
+  top: 15px;
+  z-index: 5000;
+}

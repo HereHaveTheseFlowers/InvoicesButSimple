@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\controllers\\invoicepdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\controllers\\invoicepdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\helpers\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\helpers\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\entities\\invoicepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\entities\\invoicepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\helpers\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\helpers\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\invoicepdfcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\invoicepdfcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\invoicecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\invoicecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\invoicepdfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\invoicepdfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\invoicesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\invoicesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604010110_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604010110_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240603200407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240603200407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240603233921_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240603233921_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604142740_refactoring6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604142740_refactoring6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604092554_refactoring4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604092554_refactoring4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604092750_refactoring5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604092750_refactoring5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604070434_refactoring2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604070434_refactoring2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|c:\\storage\\vkr\\invoicesbutsimple\\invoicesapi\\invoicesapi\\migrations\\20240604063332_refactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9765962A-0E4D-4CF9-874A-D3E38CF64215}|InvoicesAPI\\InvoicesAPI.csproj|solutionrelative:invoicesapi\\migrations\\20240604063332_refactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Startup.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Startup.cs",
+              "RelativeToolTip": "InvoicesAPI\\Startup.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwGgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:36:38.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InvoicesAPI\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:32:47.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "InvoicesAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAADwv5AAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:12:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "InvoicesAPI\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:20:30.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\InvoiceDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoiceDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\InvoiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:22:13.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InvoicesAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\appsettings.Development.json",
+              "RelativeToolTip": "InvoicesAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T17:02:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoicePDFController.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\InvoicePDFController.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Controllers\\InvoicePDFController.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Controllers\\InvoicePDFController.cs",
+              "RelativeToolTip": "InvoicesAPI\\Controllers\\InvoicePDFController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:09:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\IQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Helpers\\IQueryableExtensions.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\IQueryableExtensions.cs",
+              "RelativeToolTip": "InvoicesAPI\\Helpers\\IQueryableExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:52:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "InvoicesAPI\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:35:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Entities\\Invoice.cs",
+              "RelativeToolTip": "InvoicesAPI\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:28:35.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoicePDF.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Entities\\InvoicePDF.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Entities\\InvoicePDF.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Entities\\InvoicePDF.cs",
+              "RelativeToolTip": "InvoicesAPI\\Entities\\InvoicePDF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:14:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Helpers\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Helpers\\HttpContextExtensions.cs",
+              "RelativeToolTip": "InvoicesAPI\\Helpers\\HttpContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:44:52.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoicePDFCreationDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoicePDFCreationDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\InvoicePDFCreationDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoicePDFCreationDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\InvoicePDFCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:11:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceCreationDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoiceCreationDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\InvoiceCreationDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoiceCreationDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\InvoiceCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:32:29.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoicePDFDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoicePDFDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\InvoicePDFDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\InvoicePDFDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\InvoicePDFDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:12:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240604142740_Refactoring6.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604142740_Refactoring6.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604142740_Refactoring6.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604142740_Refactoring6.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604142740_Refactoring6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:27:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\AuthenticationResponse.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\AuthenticationResponse.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:13:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:38:50.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\UserCredentials.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\UserCredentials.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\UserCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:14:18.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaginationDTO.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\PaginationDTO.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\DTOs\\PaginationDTO.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\DTOs\\PaginationDTO.cs",
+              "RelativeToolTip": "InvoicesAPI\\DTOs\\PaginationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:35:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240604092554_Refactoring4.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604092554_Refactoring4.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604092554_Refactoring4.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604092554_Refactoring4.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604092554_Refactoring4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:25:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FolderProfile1.pubxml",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeToolTip": "InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-04T09:31:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240604092750_Refactoring5.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604092750_Refactoring5.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604092750_Refactoring5.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604092750_Refactoring5.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604092750_Refactoring5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:27:50.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "InvoicesAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-04T09:27:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Program.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Program.cs",
+              "RelativeToolTip": "InvoicesAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:28:35.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvoicesAPI.http",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\InvoicesAPI.http",
+              "RelativeDocumentMoniker": "InvoicesAPI\\InvoicesAPI.http",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\InvoicesAPI.http",
+              "RelativeToolTip": "InvoicesAPI\\InvoicesAPI.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-04T01:06:54.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240604070434_Refactoring2.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604070434_Refactoring2.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604070434_Refactoring2.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604070434_Refactoring2.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604070434_Refactoring2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:04:34.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240604063332_Refactoring.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604063332_Refactoring.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604063332_Refactoring.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604063332_Refactoring.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604063332_Refactoring.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:33:33.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "InvoicesAPI\\appsettings.json",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\appsettings.json",
+              "RelativeToolTip": "InvoicesAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T01:06:49.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240604010110_IdentityTables.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604010110_IdentityTables.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240604010110_IdentityTables.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240604010110_IdentityTables.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240604010110_IdentityTables.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:01:11.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240603233921_Second.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240603233921_Second.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240603233921_Second.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240603233921_Second.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240603233921_Second.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:39:21.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240603200407_Initial.cs",
+              "DocumentMoniker": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240603200407_Initial.cs",
+              "RelativeDocumentMoniker": "InvoicesAPI\\Migrations\\20240603200407_Initial.cs",
+              "ToolTip": "C:\\Storage\\VKR\\InvoicesButSimple\\InvoicesAPI\\InvoicesAPI\\Migrations\\20240603200407_Initial.cs",
+              "RelativeToolTip": "InvoicesAPI\\Migrations\\20240603200407_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:04:07.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
